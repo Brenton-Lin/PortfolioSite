@@ -1,11 +1,11 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
+    "role": "Graduate Research Assistant",
+    "organisation": "University of Florida",
     "startDate": "Sept, 2022",
     "endDate": "Present",
     "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
+    "imageSrc": "history/UCF.png"
   },
   {
     "role": "UI Designer",
