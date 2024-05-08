@@ -2,7 +2,7 @@
 
 .container {
   color: var(--color-text);
-  margin-top: 79px;
+  margin-top: 76px;
   margin-left: 10%;
   margin-right: 10%;
 }
@@ -23,7 +23,7 @@
 }
 
 .skills {
-  width: 45%;
+  width: 35%;
   display: flex;
   flex-wrap: wrap;
   gap: 37px;
@@ -52,15 +52,15 @@
 
 .skill p {
   font-size: 25px;
-  font-family: var(--font-roboto);
+  font-family: var(--font-rubik);
   font-weight: 500;
 }
 
 .history {
-  width: 45%;
+  width: 75%;
   display: flex;
   flex-direction: column;
-  gap: 40px;
+  gap: 35px;
 }
 
 .historyItem {
@@ -75,7 +75,7 @@
 }
 
 .historyItem img {
-  width: 50px;
+  width: 60px;
 }
 
 .historyItemDetails {
@@ -88,14 +88,14 @@
 }
 
 .historyItemDetails p {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 300;
 }
 
 .historyItemDetails ul {
   margin-top: 6px;
   list-style-position: inside;
-  font-size: 25px;
+  font-size: 22px;
   list-style-type: disc;
   margin-left: 17px;
 }

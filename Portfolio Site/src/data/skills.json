@@ -1,6 +1,6 @@
 [
   {
-    "title": "HTML",
+    "title": "Unity",
     "imageSrc": "skills/html.png"
   },
   {
@@ -22,9 +22,5 @@
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
-  },
-  {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
   }
 ]
