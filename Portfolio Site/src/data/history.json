@@ -4,7 +4,7 @@
     "organisation": "University of Florida",
     "startDate": "May, 2023",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "experiences": ["Led development efforts for a virtual reality (VR) training simulator using the Unity game engine and C#, contributing to an awarded contract for the XRT lab", "Implemented a full-body VR representation for training participants using Meta SDK, Unity, C#, and Blender", "Implemented synced multiplayer training scenarios using the Ubiq net framework, C#, and Node.js", "Refactored previously implemented C# code, improving input latency of our body tracking solution by 50%"],
     "imageSrc": "history/UCF.png"
   },
   {
@@ -12,7 +12,10 @@
     "organisation": "Valencia College",
     "startDate": "Jan, 2022",
     "endDate": "Present | Part-Time",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "experiences": ["Tutored math, from remedial Pre-Algebra to Calculus, breaking down complex topics for varied learning styles", 
+    "Entrusted with proctoring exams and grading student work", 
+    "Communicated between faculty and students, a diverse group of people, with class updates and review sessions"
+    ],
     "imageSrc": "history/ValenciaCollege.png"
   },
   {
@@ -21,8 +24,9 @@
     "startDate": "Oct, 2020",
     "endDate": "Present | Part-Time",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Performed repairs of HC130 and HH60 aircraft structure and skin, allowing maximum uptime for search and rescue operations and pilot training",
+      "Fabricated new aircraft components from engineering blueprints, conserving resources and labor",
+      "Compiled reports on damage and planned repair actions, resulting in efficient repairs to specification"
     ],
     "imageSrc": "history/reserve.png"
   }
