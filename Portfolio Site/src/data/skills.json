@@ -1,11 +1,11 @@
 [
   {
     "title": "Unity",
-    "imageSrc": "skills/html.png"
+    "imageSrc": "skills/unity.png"
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "title": "C#",
+    "imageSrc": "skills/csharp.png"
   },
   {
     "title": "React",
@@ -16,11 +16,11 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "SqLite",
+    "imageSrc": "skills/sqlite.png"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "title": "Git",
+    "imageSrc": "skills/git.png"
   }
 ]
