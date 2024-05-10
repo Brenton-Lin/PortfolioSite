@@ -26,6 +26,10 @@ export const Contact = () => {
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
           <a href="https://github.com/Brenton-Lin">GitHub</a>
         </li>
+        <li className={styles.link}>
+          <img src={getImageUrl("contact/drawing.png")} alt="Drawing icon" />
+          <a href="https://www.flaticon.com/free-icons/3d" title="3d icons">3d icons created by xnimrodx - Flaticon</a>
+        </li>
       </ul>
     </footer>
   );
