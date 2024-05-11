@@ -46,8 +46,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Team Player</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                Good teammates build each other up and good teams accomplish the mission. Collaborative, mission driven environments are my natural habitat.
               </p>
             </div>
           </li>

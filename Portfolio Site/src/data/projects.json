@@ -1,9 +1,9 @@
 [
   {
-    "title": "Project A",
+    "title": "Battle Drill Simulator",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "skills": ["Unity3D", "C#", "Meta SDK", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
