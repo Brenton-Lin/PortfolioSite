@@ -14,7 +14,7 @@ export const Hero = () => {
           <p className={styles.description}>
             I love thinking up creative solutions to functional problems. Also a general tech/fantasy nerd, ask me what I'm currently reading when you reach out!
           </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:brenton.c.lin@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>

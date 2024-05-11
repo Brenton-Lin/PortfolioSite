@@ -3,9 +3,9 @@
 .container {
   display: flex;
   flex-direction: column;
-  border-radius: 10px;
-  background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
-  box-shadow: 0 16px 14px 0 #04152d;
+  border-radius: 15px;
+  background-color: rgba(12, 12, 12, 0.6);
+  box-shadow: 0 0px 10px 0 #02c3f3;
   padding: 18px 20px;
   max-width: 345px;
 }

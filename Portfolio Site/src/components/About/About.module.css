@@ -3,9 +3,10 @@
 .container {
   position: relative;
   background-color: rgba(12, 12, 12, 0.6);
+  box-shadow: 0 0px 10px 0 #02c3f3;
   border-radius: 15px;
   padding: 35px;
-  margin-top: 35px;
+  margin-top: 40px;
   z-index: 1;
   margin-left: 7%;
   margin-right: 7%;
