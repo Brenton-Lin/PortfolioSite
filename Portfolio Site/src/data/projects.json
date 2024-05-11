@@ -1,26 +1,26 @@
 [
   {
     "title": "Battle Drill Simulator",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "imageSrc": "projects/bds.png",
+    "description": "A first person virtual reality training simulation. Multiplayer and full-body avatars. ",
     "skills": ["Unity3D", "C#", "Meta SDK", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://www.youtube.com/playlist?list=PLq2e96Xh61b1IjXD4chDTPqeWbQobnoSb",
+    "source": "https://github.com/Brenton-Lin/UbiqBDS"
   },
   {
-    "title": "Project B",
+    "title": "Mindforce Arena",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "A virtual reality battle arena where players use EEG headsets to cast spells with their mind.",
+    "skills": ["Unity3D", "C#", "Netcode", "Emotiv"],
+    "demo": "https://www.youtube.com/watch?v=XHV10DdsKKU",
+    "source": "https://github.com/Brenton-Lin/MindforceArena"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Portfolio Website",
+    "imageSrc": "projects/portfolio.png",
+    "description": "A clean reactive portfolio website built using React. A refresher for front-end development",
+    "skills": ["React", "Express", "CSS"],
+    "demo": "/",
+    "source": "https://github.com/Brenton-Lin/PortfolioSite"
   }
 ]
