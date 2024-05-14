@@ -12,11 +12,12 @@
 }
 
 .content {
-  display: flex;
+  display: block;
   flex-direction: column;
   align-items: flex-start;
   color: var(--color-text);
   z-index: 1;
+  white-space: pre-wrap;
 }
 
 .title {
