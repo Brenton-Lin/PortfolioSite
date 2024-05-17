@@ -8,9 +8,7 @@ export const Navbar = () => {
 
   return (
     <nav className={styles.navbar}>
-      <a className={styles.title} href="/">
-        Brenton C. Lin
-      </a>
+      
       <div className={styles.menu}>
         <img
           className={styles.menuBtn}
@@ -38,8 +36,12 @@ export const Navbar = () => {
           <li>
             <a href="#contact">Contact</a>
           </li>
+          <li>
+            <a href="#contact#">Resume</a>
+          </li>
         </ul>
       </div>
+      
     </nav>
   );
 };
